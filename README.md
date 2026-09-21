@@ -10,8 +10,6 @@ I build practical web applications with a focus on
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Supriyaupd-181717?style=for-the-badge&logo=github)](https://github.com/Supriyaupd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-
 </div>
 
 ---
@@ -149,27 +147,6 @@ under development.
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Supriyaupd&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supriyaupd&layout=compact&hide_border=true&langs_count=8" height="165"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Supriyaupd&hide_border=true)](https://github.com/Supriyaupd)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
