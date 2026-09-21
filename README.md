@@ -1,16 +1,188 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Supriyaupd/Supriyaupd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Supriya 👋
 
-Here are some ideas to get you started:
+### Full-Stack Developer | JavaScript • TypeScript • React • Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical web applications with a focus on
+**REST APIs, authentication, databases, and real-world systems.**
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Supriyaupd-181717?style=for-the-badge&logo=github)](https://github.com/Supriyaupd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 💻 Full-stack developer focused on building practical applications
+- 🚀 Working with **JavaScript, TypeScript, React, Node.js and MongoDB**
+- 🔐 Interested in **secure APIs, authentication and transaction systems**
+- 🧩 Enjoy solving real-world problems through software
+- 📚 Currently learning **backend architecture, testing, Docker and system design**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 💳 Fund Transfer System
+
+A full-stack digital wallet-style application focused on
+secure transfers and transaction integrity.
+
+**Highlights**
+
+- 🔐 JWT authentication
+- 🔑 Transaction PIN
+- 💰 Wallet balance management
+- 💸 User-to-user transfers
+- 📜 Transaction history
+- 🔄 MongoDB transactions
+
+**Tech**
+
+`Next.js` `TypeScript` `Node.js` `Express` `MongoDB`
+
+[View Repository →](https://github.com/Supriyaupd/fund-transfer-system)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛒 MERN E-Commerce
+
+A full-stack e-commerce application with product browsing,
+cart management and checkout functionality.
+
+**Highlights**
+
+- 🛍️ Product browsing
+- 🛒 Shopping cart
+- 🔐 Authentication
+- 💳 Checkout
+- 🌐 REST API
+- 📮 Postman collection
+
+**Tech**
+
+`MongoDB` `Express` `React` `Node.js`
+
+[Live Demo →](https://mern-ecommerce-app-k1d6.vercel.app/)
+
+[View Repository →](https://github.com/Supriyaupd/mern-ecommerce-app)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 DevTrack
+
+A TypeScript-based developer productivity project currently
+under development.
+
+**Focus**
+
+- 📈 Developer productivity
+- 🧩 Full-stack architecture
+- ⚡ Backend development
+- 🗄️ Database integration
+
+**Tech**
+
+`TypeScript` `Node.js`
+
+[View Repository →](https://github.com/Supriyaupd/devtrack)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎯 Currently Learning
+
+- Advanced TypeScript
+- Backend architecture
+- Testing
+- Docker
+- CI/CD
+- System Design
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Supriyaupd&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supriyaupd&layout=compact&hide_border=true&langs_count=8" height="165"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Supriyaupd&hide_border=true)](https://github.com/Supriyaupd)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Supriyaupd-181717?style=for-the-badge&logo=github)](https://github.com/Supriyaupd)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building • Learning • Improving 🚀
+
+</div>
