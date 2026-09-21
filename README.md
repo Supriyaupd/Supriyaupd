@@ -14,17 +14,17 @@ I build practical web applications with a focus on
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 💻 Full-stack developer focused on building practical applications
-- 🚀 Working with **JavaScript, TypeScript, React, Node.js and MongoDB**
-- 🔐 Interested in **secure APIs, authentication and transaction systems**
-- 🧩 Enjoy solving real-world problems through software
-- 📚 Currently learning **backend architecture, testing, Docker and system design**
+-  Full-stack developer focused on building practical applications
+-  Working with **JavaScript, TypeScript, React, Node.js and MongoDB**
+-  Interested in **secure APIs, authentication and transaction systems**
+-  Enjoy solving real-world problems through software
+-  Currently learning **backend architecture, testing, Docker and system design**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 <p>
@@ -48,7 +48,7 @@ I build practical web applications with a focus on
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <table>
 <tr>
@@ -62,12 +62,12 @@ secure transfers and transaction integrity.
 
 **Highlights**
 
-- 🔐 JWT authentication
-- 🔑 Transaction PIN
-- 💰 Wallet balance management
-- 💸 User-to-user transfers
-- 📜 Transaction history
-- 🔄 MongoDB transactions
+-  JWT authentication
+-  Transaction PIN
+-  Wallet balance management
+-  User-to-user transfers
+-  Transaction history
+-  MongoDB transactions
 
 **Tech**
 
@@ -86,12 +86,12 @@ cart management and checkout functionality.
 
 **Highlights**
 
-- 🛍️ Product browsing
-- 🛒 Shopping cart
-- 🔐 Authentication
-- 💳 Checkout
-- 🌐 REST API
-- 📮 Postman collection
+-  Product browsing
+-  Shopping cart
+-  Authentication
+-  Checkout
+-  REST API
+-  Postman collection
 
 **Tech**
 
@@ -109,17 +109,17 @@ cart management and checkout functionality.
 
 <td width="50%" valign="top">
 
-## 📊 DevTrack
+##  DevTrack
 
 A TypeScript-based developer productivity project currently
 under development.
 
 **Focus**
 
-- 📈 Developer productivity
-- 🧩 Full-stack architecture
-- ⚡ Backend development
-- 🗄️ Database integration
+-  Developer productivity
+-  Full-stack architecture
+-  Backend development
+-  Database integration
 
 **Tech**
 
@@ -131,7 +131,7 @@ under development.
 
 <td width="50%" valign="top">
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 - Advanced TypeScript
 - Backend architecture
@@ -160,6 +160,6 @@ under development.
 
 <div align="center">
 
-### 💻 Building • Learning • Improving 🚀
+### 💻 Building • Learning • Improving 
 
 </div>
