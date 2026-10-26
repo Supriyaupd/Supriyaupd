@@ -79,36 +79,6 @@ secure transfers and transaction integrity.
 
 <td width="50%" valign="top">
 
-## 🛒 MERN E-Commerce
-
-A full-stack e-commerce application with product browsing,
-cart management and checkout functionality.
-
-**Highlights**
-
--  Product browsing
--  Shopping cart
--  Authentication
--  Checkout
--  REST API
--  Postman collection
-
-**Tech**
-
-`MongoDB` `Express` `React` `Node.js`
-
-[Live Demo →](https://mern-ecommerce-app-k1d6.vercel.app/)
-
-[View Repository →](https://github.com/Supriyaupd/mern-ecommerce-app)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
 ##  DevTrack
 
 A TypeScript-based developer productivity project currently
